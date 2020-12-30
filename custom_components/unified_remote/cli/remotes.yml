@@ -14,6 +14,11 @@ remotes:
     controls:
       - "window"
       - "skip_intro"
+  monitor_advanced:
+    id: PeterJuras.MonitorCustom
+    controls:
+      - turn_on
+      - turn_off
 types:
   media:
     controls:
